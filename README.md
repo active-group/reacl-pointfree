@@ -119,7 +119,9 @@ takes to fully specify both upward and downward flow of app-state.
 ### Local state
 
 We have not yet found a satisfying way of dealing with local-state in
-pointfree style.
+pointfree style. We might need to get rid of the concept
+entirely in order to find a more principled solution for the problems
+that we currently try to solve with local-state.
 
 
 ### Names
